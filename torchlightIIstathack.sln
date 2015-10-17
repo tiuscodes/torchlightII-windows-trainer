@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "torchlightIIstathack", "torchlightIIstathack\torchlightIIstathack.csproj", "{301611AD-1347-4D93-B41C-D4D25E929BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{301611AD-1347-4D93-B41C-D4D25E929BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301611AD-1347-4D93-B41C-D4D25E929BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301611AD-1347-4D93-B41C-D4D25E929BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301611AD-1347-4D93-B41C-D4D25E929BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
