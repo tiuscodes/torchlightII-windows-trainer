@@ -8,7 +8,6 @@ All of the following values can be changed at run-time
 * Edit all character stats
 * Edit character level
 * Add skillpoints
-* Edit character coins
 
 ![screenshot](http://iforce.co.nz/i/4r2kjcrd.of0.png)
 
